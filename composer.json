@@ -1,0 +1,16 @@
+{
+    "name": "evan/number-format",
+    "description": "number",
+    "authors": [
+        {
+            "name": "evan",
+            "email": "evan_yxw@126.com"
+        }
+    ],
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "numberFormat\\": "src/"
+        }
+    }
+}
